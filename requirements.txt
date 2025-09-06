@@ -1,0 +1,6 @@
+#NE JAMAIS STOCKER LE REQUIREMENT SUR LE SERVEUR DU CLIENT
+Flask
+requests
+setuptools
+python-binance
+gunicorn
